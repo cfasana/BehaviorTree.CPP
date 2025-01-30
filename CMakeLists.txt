@@ -138,6 +138,7 @@ list(APPEND BT_SOURCE
     src/decorators/delay_node.cpp
 
     src/controls/if_then_else_node.cpp
+    src/controls/if_then_one_time_else_node.cpp
     src/controls/fallback_node.cpp
     src/controls/parallel_node.cpp
     src/controls/reactive_sequence.cpp
